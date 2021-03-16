@@ -1,1 +1,1 @@
-# Instacart - Predicting what will customer order next
+# Instacart - Predicting What Will Customer Order Next
